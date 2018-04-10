@@ -1,0 +1,10 @@
+pymongo==3.4.0
+Flask==0.12.2
+flask_jwt==0.3.2
+flask_restplus==0.10.1
+google_api_python_client==1.6.5
+httplib2==0.10.3
+PyJWT==1.5.3
+marshmallow==3.0.0b7
+mongoengine==0.15.0
+pytest==3.4.0
